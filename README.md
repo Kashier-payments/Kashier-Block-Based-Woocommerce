@@ -3,9 +3,9 @@
 Kashier WooCommerce Plugin
 
  * Version: 4.0.0
- * Requires at least: 4.4
+ * Requires at least: 6.0
  * Tested up to: 10.0.4
- * WC requires at least: 2.6
+ * WC requires at least: 6.0
  * WC tested up to: 10.0.4
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/kashier-logo.png)
@@ -37,7 +37,7 @@ Kashier WooCommerce Plugin
 
 ### Installation
 
-- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/Kashier-WooCommerce-Plugin-master.zip) 
+- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/Kashier-Block-Based-WooCommerce-Plugin.zip)
 
   - if you use woocomerce version 8 or above go to woocomerce ->advanced setting -> features 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/hpos-feature-settings.webp)
