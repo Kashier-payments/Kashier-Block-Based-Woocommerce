@@ -40,13 +40,13 @@ Kashier WooCommerce Plugin
 - Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/Kashier-Block-Based-WooCommerce-Plugin.zip)
 
   - if you use woocomerce version 8 or above go to woocomerce ->advanced setting -> features 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/hpos-feature-settings.webp)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/hpos-feature-settings.webp)
 
 - Upload and activate the plugin on Woocommerce.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/kashier_upload.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/kashier_upload.png)
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/kashier_activate.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/kashier_activate.png)
 
 ### Obtain Test Credentials
 
@@ -60,11 +60,11 @@ Kashier WooCommerce Plugin
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikey_mid_test_new.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/apikey_mid_test_new.png)
 
 - Navigate to Woocommerce > settings > payments
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommerce_payment_methods.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/woocommerce_payment_methods.png)
 
 - there are three payment methods added to Woocommerce > settings > payments section
 
@@ -80,7 +80,7 @@ Kashier WooCommerce Plugin
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommerce_configurtion_payment.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/woocommerce_configurtion_payment.png)
 
 ### Enable Advanced Options 
 
@@ -88,7 +88,7 @@ Kashier WooCommerce Plugin
 - After enabling Enforce EGP Payment checkbox , you have to insert exchange rate from your default currency displayed on your website to EGP currency. the exchange rate must be greater than 1 .
 - The next picture is example of advanced options configuration if you display USD currency by default on your website, but you want customers to only pay by EGP currency via kashier payment method. 
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/advanced_options.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/advanced_options.png)
 
 ### Test plugin 
 
@@ -96,7 +96,7 @@ Kashier WooCommerce Plugin
 
 - After proceeding you will find a Kashier Payment methods that you added it. choose one of them and proceed to make a payment.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/new_payment_methods.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/new_payment_methods.png)
 
 
 ### Go live
@@ -111,7 +111,7 @@ Kashier WooCommerce Plugin
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikey_mid_test_new.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/apikey_mid_test_new.png)
 
 - Insert Live Api Key and Live Secret Key in the Configuration page of each module.
 
@@ -119,7 +119,7 @@ Kashier WooCommerce Plugin
 
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommerce_configuration_live.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-Block-Based-Woocommerce/main/steps/woocommerce_configuration_live.png)
 
 
 ### Support
