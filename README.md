@@ -2,11 +2,11 @@
 ### Wordpress Woocommerce  - Kashier plugin
 Kashier WooCommerce Plugin
 
- * Version: 4.0.0
+ * Version: 2.1.4
  * Requires at least: 6.0
- * Tested up to: 10.0.4
- * WC requires at least: 6.0
- * WC tested up to: 10.0.4
+ * Tested up to: 6.9.4
+ * WC requires at least: 8.0.0^
+ * WC tested up to: 10.6.1
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/kashier-logo.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommercew-logo.png)
@@ -28,7 +28,9 @@ Kashier WooCommerce Plugin
       3. Bank Installments Payment    
       4. valU    
       5. Souhoola    
-      6. Aman    
+      6. Aman
+      7. Mogo
+      8. Tru
 
 - Support acquiring multiple currencies "EGP, USD, GBP, EUR".
 
